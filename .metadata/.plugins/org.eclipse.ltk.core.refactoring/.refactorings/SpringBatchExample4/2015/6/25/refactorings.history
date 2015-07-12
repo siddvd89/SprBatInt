@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;SpringBatchExample4/src/main/java/com/mkyong&apos; to &apos;deluxe&apos;" description="Rename resource &apos;mkyong&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/mkyong" name="deluxe" stamp="1434574341617" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;SpringBatchExample4/src/test/java/com/mkyong&apos; to &apos;deluxe&apos;" description="Rename resource &apos;mkyong&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/com/mkyong" name="deluxe" stamp="1434574562298" updateReferences="true"/>
+</session>
